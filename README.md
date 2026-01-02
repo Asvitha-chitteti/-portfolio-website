@@ -15,7 +15,7 @@ This is my personal portfolio website showcasing my skills, projects, linkedin p
 - GitHub Pages
 
 ## 🌐 Live Demo
-https://asvitha-chitteti.github.io/portfolio-website/
+http://127.0.0.1:5500/index.html
 
 ## 👩‍💻 Author
 Asvitha Chitteti
